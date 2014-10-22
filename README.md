@@ -2,6 +2,7 @@ web-client-sample
 =================
 
 This repo shows:
+
 1. How to authenticate a user with the 3cixty platform
 2. How to revoke a 3cixty access token
 3. How to refresh a 3cixty token
